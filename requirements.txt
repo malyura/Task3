@@ -1,0 +1,4 @@
+requests==2.12.4
+cx-Oracle==5.2.1
+robotframework==3.0.1
+robotframework-requests==0.4.6
